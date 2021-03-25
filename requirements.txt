@@ -35,7 +35,7 @@ pycodestyle==2.5.0
 Pygments==2.6.1
 pylint==2.4.4
 pytz==2019.3
-PyYAML==5.1.2
+PyYAML==5.4
 requests==2.23.0
 six==1.14.0
 soupsieve==2.0
